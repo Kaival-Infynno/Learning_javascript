@@ -15,14 +15,13 @@
 //   const d = "a";
 //   const e = a + d;
 //   const n1 = "6" * 3;
-//   const n2 = new Number(4);
 //   console.log(a + b);
 //   console.log(e);
 //   console.log(n1);
 //   console.log(typeof a);
 //   console.log(typeof b);
 //   console.log(n1.toFixed(4));
-//   console.log(n2);
+
 //   return (c = a + b);
 // }
 // Number();
