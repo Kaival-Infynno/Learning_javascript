@@ -52,14 +52,14 @@
 
 // Data();
 
-function strDemo() {
-  let str1 = "i am a Employee";
-  let str2 = `i am A man ${str1}`;
-  console.log(str2);
-}
-strDemo();
+// function strDemo() {
+//   let str1 = "i am a Employee";
+//   let str2 = `i am A man ${str1}`;
+//   console.log(str2);
+// }
+// strDemo();
 
-//Replace , replaceAll , length ,characterAt , concat ,split: conver string to array, trim : Whitespace remove
+//Replace , replaceAll , length ,characterAt , concat ,split:split with specified word conver string to array, trim : Whitespace remove
 //slice : remove that part we enter , indexOf : return string length where it will start
 //~2 : it will consider -(2+1) , includes : for check perticular word in string or not :T/F
 //startsWith  && endsWith: chck string starting or ending with word
